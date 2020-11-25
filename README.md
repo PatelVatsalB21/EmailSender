@@ -3,7 +3,7 @@ This app directly sends email to given email id without creating Intent chooser.
 
 ![](EmailSenderImage.jpeg)
 
-EmailSender app is meant to send email directly without disturbing user to choose app to send email. Also alarm manager can be used to schedule mail so it can be sent from background service without interrupting user. Libraries used in thses app can be downloaded from https://code.google.com/archive/p/javamail-android/downloads and should be pasted in libs/app of project. 
+EmailSender app is meant to send email directly without disturbing user by creating IntentChooser to choose app to send email. Also Alarm Manager can be used to schedule mail so it can be sent from background service without interrupting user. Libraries used in thses app can be downloaded from https://code.google.com/archive/p/javamail-android/downloads and should be pasted in libs/app of project. 
 
 After that edit build.gradle(app) file and add following line:
 
@@ -23,8 +23,8 @@ After completing successfully sync your can run the project. But app password is
 
 6) When you send email fill these password with it.
 
-These password is used by javamail to authenticate you with gmail. If you enter wrong password you will get authentication error. Also if you want to send email multiple times and frequently you can make changes in constructor of SendMail class of app and directly put password instead of filling every time.
+This password is used by javamail to authenticate you with gmail. If you enter wrong password you will get authentication error. Also if you want to send email multiple times and frequently you can make changes in constructor of SendMail class of app and directly put password instead of filling every time.
 
-If these app helps you, please give a STAR to it.
+If this app helps you, please give a STAR to it.
 
 Thank You

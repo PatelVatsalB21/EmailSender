@@ -27,8 +27,4 @@ This password is used by javamail to authenticate you with gmail. If you enter w
 
 If this app helps you, please give a STAR to it.
 
-
-<a href="https://www.buymeacoffee.com/vp2120" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
-
 Thank You

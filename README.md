@@ -1,9 +1,17 @@
 # EmailSender
-This app directly sends email to given email id without creating Intent chooser.
+This app is for learning and demonstration of **Java Mail** for sending emails.
 
-![](EmailSenderImage.jpeg)
+## Introduction
+EmailSender app is meant to send email directly without disturbing user by creating IntentChooser to choose app to send email. Also Alarm Manager can be used to schedule mail so it can be sent from background service without interrupting user.
 
-EmailSender app is meant to send email directly without disturbing user by creating IntentChooser to choose app to send email. Also Alarm Manager can be used to schedule mail so it can be sent from background service without interrupting user. Libraries used in thses app can be downloaded from https://code.google.com/archive/p/javamail-android/downloads and should be pasted in libs/app of project. 
+## Preview
+
+<img width="333" src="https://github.com/PatelVatsalB21/EmailSender/blob/master/EmailSenderImage.jpeg"/>
+
+
+## Setup
+
+Libraries used in thses app can be downloaded from https://code.google.com/archive/p/javamail-android/downloads and should be pasted in libs/app of project. 
 
 After that edit build.gradle(app) file and add following line:
 

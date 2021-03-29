@@ -33,6 +33,12 @@ After completing successfully sync your can run the project. But app password is
 
 This password is used by javamail to authenticate you with gmail. If you enter wrong password you will get authentication error. Also if you want to send email multiple times and frequently you can make changes in constructor of SendMail class of app and directly put password instead of filling every time.
 
+## Code & Issues
+If you are a developer and you wish to contribute to the app please fork the project
+and submit a pull request.
+Follow [Github Flow](https://help.github.com/articles/github-flow/) for collaboration!
+
+
 If this app helps you, please give a STAR to it.
 
 Thank You
